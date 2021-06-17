@@ -37,3 +37,9 @@ body {
   font-weight: 100;
   font-size: 1.125rem;
 }
+.navbar.scrolled {
+  background: rgb(222, 192, 222) !important;
+  transition: background 500ms;
+}
+
+
